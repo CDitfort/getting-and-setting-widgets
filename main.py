@@ -1,3 +1,5 @@
+#This is a basic app in TKinter exloring getting and setting widget text.
+
 import tkinter as tk
 from tkinter import ttk
 
